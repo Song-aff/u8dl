@@ -1,0 +1,18 @@
+[package]
+name = "u8dl"
+version = "0.1.0"
+edition = "2021"
+description = "Universal 8bit Device Library for driving monochrome devices like OLEDs and LCDs"
+keywords = ["nostd", "embedded", "ssd1306"]
+license = "MIT"
+repository = "https://github.com/Song-aff/u8dl"
+authors = ["song <281218023@qq.com>"]
+
+[dependencies]
+# Add your dependencies here
+
+[features]
+# Add any features here if needed
+
+[package.metadata.docs.rs]
+# Documentation settings if publishing to docs.rs
